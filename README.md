@@ -29,7 +29,7 @@ Me chamo Vinicius Laurindo Amaral, tenho 18 anos e sou natural de Roraima. Concl
 <img 
     align="left" 
     alt="JAVA"
-    title="HTMJAVA" 
+    title="JAVA" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
@@ -42,6 +42,15 @@ Me chamo Vinicius Laurindo Amaral, tenho 18 anos e sou natural de Roraima. Concl
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
 />
+<img 
+    aling="left"
+    alt="DEBIAN"
+    title="DEBIAN"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg"
+/>
+          
 <br/>
 <br/>
 
