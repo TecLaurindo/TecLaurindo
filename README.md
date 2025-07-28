@@ -2,7 +2,7 @@
 
 **`Estudante de Programção`**
 
-Me chamo Vinicius Laurindo Amaral, tenho 18 anos e sou natural de Roraima. Concluí o ensino médio na EEML. Atualmente, estou cursando técnico em informática no SNAC/RR. Sou apaixonado por tecnologia e busco sempre estar por dentro das noticias
+Me chamo Vinicius Laurindo Amaral, tenho 18 anos e sou natural de Roraima. Concluí o ensino médio na EEML. Atualmente, estou cursando técnico em informática no SENAC/RR. Sou apaixonado por tecnologia e busco sempre estar por dentro das noticias
 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦: [vn.laurindo](https://www.instagram.com/vn.laurindo/).
 
 <p align="left"
