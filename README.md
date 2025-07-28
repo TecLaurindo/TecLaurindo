@@ -1,12 +1,11 @@
 # <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=290&color=6232a8&text=Vinicus%20Laurindo&reversal=false&textBg=false&fontColor=fff">
-#/>
-<img 
+#<img 
     align="left" 
     alt="LINUX" 
     title="LINUX"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
+    src="blob:https://web.whatsapp.com/34ccc988-92fe-4fb0-9953-667a4ed409fb"
 /> Vinicius Laurindo
 
 **`Estudante de Programção`**
