@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=290&color=6232a8&text=Leonardo%20Pinezi&reversal=false&textBg=false&fontColor=fff">
 # 👨🏻‍💻 Vinicius Laurindo
 
 **`Estudante de Programção`**
