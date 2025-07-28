@@ -5,7 +5,7 @@
     title="LINUX"
     width="30px" 
     style="padding-right: 10px;" 
-    src="blob:https://web.whatsapp.com/34ccc988-92fe-4fb0-9953-667a4ed409fb"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
 /> Vinicius Laurindo
 
 **`Estudante de Programção`**
