@@ -1,5 +1,5 @@
 # <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=290&color=6232a8&text=Vinicus%20Laurindo&reversal=false&textBg=false&fontColor=fff">
-#<img 
+# <img 
     align="left" 
     alt="LINUX" 
     title="LINUX"
