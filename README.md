@@ -1,17 +1,18 @@
 # <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=290&color=6232a8&text=Vinicus%20Laurindo&reversal=false&textBg=false&fontColor=fff">
-<img 
-    align="left" 
-    alt="LINUX" 
-    title="LINUX"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/> 
-# Vinicius Laurindo
 
-**`Estudante de Programção`**
+## 👨🏽‍🎓 ** Student Developer** | Passionate about desktop & mobile applications
 
-Me chamo Vinicius Laurindo Amaral, tenho 18 anos e sou natural de Roraima. Concluí o ensino médio na EEML. Atualmente, estou cursando técnico em informática no SENAC/RR. Sou apaixonado por tecnologia e busco sempre estar por dentro das noticias
-𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦: [vn.laurindo](https://www.instagram.com/vn.laurindo/).
+**`✨ _"Code is like humor. When you have to explain it, it’s bad."_ ✨`**
+
+## About me
+
+- 💡 **Tech Stack**: java, Lua, Linux, Bash.
+- 🎯 **Currently Learning**: English.
+- 🇧🇷 **From**: Brazil | 18 y/o
+- 📈 **Goal**: Becoming a top-tier Back-End dev & contributing to open-source
+
+
+## ⚡ Skills
 
 <p align="left"
     <a href="https://github.com/TecLaurindo?tab=repositories&sort=stargazers">
