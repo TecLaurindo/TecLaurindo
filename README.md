@@ -9,7 +9,7 @@
 - 💡 **Tech Stack**: java, Lua, Linux, Bash.
 - 🎯 **Currently Learning**: English.
 - 🇧🇷 **From**: Brazil | 18 y/o
-- 📈 **Goal**: Becoming a top-tier Back-End dev & contributing to open-source
+- 📈 **Goal**: Becoming a top-tier Back-End dev & contributing to open-sourc
 
 
 ## ⚡ Skills
