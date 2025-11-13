@@ -14,26 +14,9 @@
 
 ## ⚡ Skills
 
-<p align="left"
-    <a href="https://github.com/TecLaurindo?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/TecLaurindo?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/TecLaurindo?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Brota la no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/TecLaurindo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+
 
 ---
-
-### 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -60,6 +43,19 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg"
 />
 <br/>
-<br/>
-
+<p align="left"
+    <a href="https://github.com/TecLaurindo?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/TecLaurindo?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/TecLaurindo?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Brota la no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/TecLaurindo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
 </p>
