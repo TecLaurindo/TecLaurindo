@@ -1,6 +1,6 @@
 # <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=290&color=6232a8&text=Vinicus%20Laurindo&reversal=false&textBg=false&fontColor=fff">
 
-## ** Student Developer ** | Passionate about desktop & mobile applications
+## 👨🏽‍🎓 Student Developer | Passionate about desktop & mobile applications
 
 **`✨ _"Code is like humor. When you have to explain it, it’s bad."_ ✨`**
 
